@@ -9,7 +9,7 @@
 </head>
 <body>
 
-myInfoOK.jsp 입니다.<br>
+myInfoOK.jsp 입니다.123456789<br>
 
 <!-- myInfo.jsp에서 전송되는 데이터를 받는다. -->
 <%
